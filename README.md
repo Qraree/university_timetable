@@ -1,4 +1,4 @@
 # university_timetable
-Mobile app for university timetable
+Mobile app for university timetable.
 
 
